@@ -3,5 +3,5 @@
 }
 
 ::placeholder, body, button, input, select, textarea {
-    font-family: var(--font), sans-serif;
+    font-family: var(--font), jua;
 }
