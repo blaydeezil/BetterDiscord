@@ -1,7 +1,7 @@
 :root {
-    --font: 'Jua';
+    --font: 'honk';
 }
 
 ::placeholder, body, button, input, select, textarea {
-    font-family: var(--font), jua;
+    font-family: var(--font), honk;
 }
