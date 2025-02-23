@@ -1,7 +1,0 @@
-:root {
-    --font: 'honk';
-}
-
-::placeholder, body, button, input, select, textarea {
-    font-family: var(--font), honk;
-}
